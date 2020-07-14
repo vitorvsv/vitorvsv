@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Vítor Soares Vian :man_technologist:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/vitorvsv)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vitor-soares-vian/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:vitorsoaresvian@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/vitor.soares.vian/)
+
+### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my :octocat: profile
+
+- 🔭 I’m currently working on front-end development at [Combate à Fraude](https://www.combateafraude.com/)
+- 🌱 I’m currently learning NodeJS 💙, Mongo, React and English
+- 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
+- 😄 Fun fact:
+  I prefer tea to coffee
+  I love philosophy
+  I don't really like to play or watch series
+- ⚡ Passionate about new technologies.
+
+
