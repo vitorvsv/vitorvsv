@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **vitorvsv/vitorvsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NodeJS 💙, Mongo, React and English
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
 - 😄 Fun fact:
-  I prefer tea to coffee
-  I love philosophy
-  I don't really like to play or watch series
+  - I prefer tea to coffee
+  - I love philosophy
+  - I don't really like to play or watch series
 - ⚡ Passionate about new technologies.
 
 
