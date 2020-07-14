@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on front-end development at [Combate à Fraude](https://www.combateafraude.com/)
 - 🌱 I’m currently learning NodeJS 💙, Mongo, React and English
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
+- ⚡ Passionate about new technologies.
 - 😄 Fun fact:
   - I prefer tea to coffee
   - I love philosophy
   - I don't really like to play or watch series
-- ⚡ Passionate about new technologies.
-
-
