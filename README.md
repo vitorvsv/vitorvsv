@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my :octocat: profile
 
-- 🔭 I’m currently working on front-end development at [Combate à Fraude](https://www.combateafraude.com/)
+- 🔭 I’m currently working on fullstack development at [Combate à Fraude](https://www.combateafraude.com/)
 - 🌱 I’m currently learning NodeJS 💙, Mongo, React and English
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
 - ⚡ Passionate about new technologies.
