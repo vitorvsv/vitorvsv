@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - 😄 Fun fact:
   - I prefer tea to coffee
   - I love philosophy
-  - I don't really like to play or watch series
+  - I'm a lol player :)
