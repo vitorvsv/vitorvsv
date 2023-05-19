@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my :octocat: profile
 
-- 🔭 I’m currently working on Tech Lead at [Combate à Fraude](https://www.combateafraude.com/)
+- 🔭 I’m currently working on Tech Lead at [CAF](https://www.caf.io/)
 - 🌱 I’m currently learning NodeJS 💙, Mongo, React and English
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
 - ⚡ Passionate about new technologies.
