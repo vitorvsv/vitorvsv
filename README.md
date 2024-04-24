@@ -24,6 +24,10 @@
 
 ## [VV-Drive](https://github.com/vitorvsv/vv-drive)
 
+### Preview
+
+![](./resources/vv-drive-demo.gif)
+
 ### Description
 The objective of this project was to clone the Google Drive file upload feature with a focus on processing pieces of the uploaded file using Node Streams.
 
