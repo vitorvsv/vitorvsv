@@ -17,6 +17,7 @@
 - 😄 Fun fact:
   - I like Italian culture and I'm learning Italian
   - I like investing and related subjects 
+  - I practice karate
   - I'm a PS5 player :)
 
 
@@ -45,3 +46,24 @@ With this project I learned how to process data on demand in the backend, which 
 Problem: In my current company we have a script that queries executions that are stuck (after some supplier unavailability) in the database and reprocesses them. The problem is that the greater the number of executions to be processed, the slower the process and the greater the computational cost required to process.
 
 Possible solution: Using the concepts learned in this project, with nodejs streams we are able to process the database data on demand and separate this processing into small parts of fixed records, thus optimizing the costs related to the reprocessing of these executions and no longer requiring high power temporary computational (extra cost).
+
+
+## [Salvi Dojô](https://www.salvidojo.com.br)
+
+### Preview
+
+![](./resources/salvi-dojo-layout.jpeg)
+
+### Description
+This project was a website donated to Salvi Dojo, a Shotokan Karate dojo located in Lajeado, RS that trains people of all ages and both sexes. Karate generates positive impacts on society by forming the character of its practitioners by combining the training of the body, mind and spirit.
+
+### How does this project help my daily life?
+As it is a donation to a project that I believe in, that Karate shapes the character of its practitioners, this project has a high sentimental value for me, helping to spread and grow the practice of martial arts in the city where I live.
+
+### Key Learnings
+* Delivering value in a short time: the website was delivered in less than a week
+* Focus on generating value: The website was created with the features that deliver the greatest value at the moment
+* Work with design: The website was designed by a fellow designer who also donated without work to the cause
+
+### How did/will I generate value for my company with this knowledge?
+This project taught me to focus on the customer's problem and how to generate the greatest value in the shortest possible time by focusing on solving the customer's pain, as this website was built using the Wix platform, which helped with fast delivery and focused on solving the problem regardless of the technology or tool used.
