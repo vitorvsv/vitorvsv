@@ -9,19 +9,25 @@
 
 ###  Hi there 👋! Welcome to my :octocat: profile
 
-- 💻 I’m currently working on Tech Lead at [CAF](https://www.caf.io/)
-- 🚀 I am always looking to improve my knowledge in: Javascript, NodeJS, React and AWS.
+- ⚡ Passionate about technologies.
+- 💻 My last job was working on Tech Lead at [CAF](https://www.caf.io/)
+- 🚀 I am always looking to improve my knowledge in:
+  - Typescript/NodeJS
+  - React
+  - AWS
+  - Design and architecture of software
+  - and many more...
 - 🌱 At my free time I like to read tech books and write some code to improve my skills.
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
-- ⚡ Passionate about technologies.
 - 😄 Fun fact:
   - I like Italian culture and I'm learning Italian
-  - I like investing and related subjects 
+  - I like investing and related subjects
   - I practice karate
-  - I'm a PS5 player :)
-
+  - I have a beautiful cat named "Moana" and she is a dwarf cat of the race [minuet](https://en.wikipedia.org/wiki/Minuet_cat) 🐈
 
 ###  Projects
+
+To be more easy to find my projects, I organized a couple of them in the list below with a short description of each project and how it contributed to the company that I'm working with. Feel free to check them out and let me know what you think!
 
 ## [VV-Drive](https://github.com/vitorvsv/vv-drive)
 
@@ -47,6 +53,33 @@ Problem: In my current company we have a script that queries executions that are
 
 Possible solution: Using the concepts learned in this project, with nodejs streams we are able to process the database data on demand and separate this processing into small parts of fixed records, thus optimizing the costs related to the reprocessing of these executions and no longer requiring high power temporary computational (extra cost).
 
+## [My Metrics](https://github.com/vitorvsv/my-metrics-backend)
+
+### Preview
+
+![](./resources/vv-drive-demo.gif)
+
+### Description
+This is a project that uses NestJS to create a backend for a metrics application. The project is built using TypeScript and follows the principles of: SOLID, Clean architecture, Test-Driven Development, and Domain Driven Design. It is a project developed to be used as a study case for me, so if you have any suggestions or improvements, feel free to open an issue or a pull request.
+
+### How does this project help my daily life?
+With this project I have the oportunity to practice the concepts learned in the book "Clean Architecture" by Robert C. Martin and "Domain Driven Design" by Eric Evans. I also learned how to use NestJS and TypeScript to create a backend for a metrics application.
+
+### Key Learnings
+* Clean Architecture
+* DDD
+* NestJS
+* TypeScript
+* Docker
+* SOLID
+* Test-Driven Development
+* Domain Driven Design
+* Clean Code
+* Refactoring
+* Design Patterns
+
+### How did/will I generate value for my company with this knowledge?
+Using concepts learned in this project, I can create a backend application with complex business rules and validations, using the best practices of software development. Mantaining the code clean and organized, making it easier to maintain and evolve over time.
 
 ## [Salvi Dojô](https://www.salvidojo.com.br)
 
