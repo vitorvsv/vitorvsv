@@ -57,7 +57,7 @@ Possible solution: Using the concepts learned in this project, with nodejs strea
 
 ### Preview
 
-![](./resources/vv-drive-demo.gif)
+![](./resources/my-metrics.jpg)
 
 ### Description
 This is a project that uses NestJS to create a backend for a metrics application. The project is built using TypeScript and follows the principles of: SOLID, Clean architecture, Test-Driven Development, and Domain Driven Design. It is a project developed to be used as a study case for me, so if you have any suggestions or improvements, feel free to open an issue or a pull request.
