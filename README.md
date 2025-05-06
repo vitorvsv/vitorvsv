@@ -10,7 +10,7 @@
 ###  Hi there 👋! Welcome to my :octocat: profile
 
 - ⚡ Passionate about technologies.
-- 💻 My last job was working on Tech Lead at [CAF](https://www.caf.io/)
+- 💻 My last job was working as Tech Lead at [CAF](https://www.caf.io/)
 - 🚀 I am always looking to improve my knowledge in:
   - Typescript/NodeJS
   - React
@@ -23,7 +23,7 @@
   - I like Italian culture and I'm learning Italian
   - I like investing and related subjects
   - I practice karate
-  - I have a beautiful cat named "Moana" and she is a dwarf cat of the race [minuet](https://en.wikipedia.org/wiki/Minuet_cat) 🐈
+  - I have a beautiful cat named "Moana" and she is a dwarf cat of the breed [minuet](https://en.wikipedia.org/wiki/Minuet_cat) 🐈
 
 ###  Projects
 
