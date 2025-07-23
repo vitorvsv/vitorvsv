@@ -10,7 +10,7 @@
 ###  Hi there 👋! Welcome to my :octocat: profile
 
 - ⚡ Passionate about technologies.
-- 💻 My last job was working as Tech Lead at [CAF](https://www.caf.io/)
+- 💻 I'm a Senior Web Developer at [@judit.io](https://judit.io)
 - 🚀 I am always looking to improve my knowledge in:
   - Typescript/NodeJS
   - React
