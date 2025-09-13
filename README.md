@@ -100,3 +100,7 @@ As it is a donation to a project that I believe in, that Karate shapes the chara
 
 ### How did/will I generate value for my company with this knowledge?
 This project taught me to focus on the customer's problem and how to generate the greatest value in the shortest possible time by focusing on solving the customer's pain, as this website was built using the Wix platform, which helped with fast delivery and focused on solving the problem regardless of the technology or tool used.
+
+## Extra projects
+* [EKS-deploy](https://github.com/vitorvsv/eks-deploy): Project with three API deployed in AWS EKS, used as a technical studies about Docker, Containers, Kubernetes and Micro-services.
+
