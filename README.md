@@ -12,10 +12,10 @@
 - ⚡ Passionate about technologies.
 - 💻 I'm a Senior Web Developer at [@judit.io](https://judit.io)
 - 🚀 I am always looking to improve my knowledge in:
+  - Design and architecture of software (DDD, TDD, Clean Arch, Hexagonal, SOLID)
   - Typescript/NodeJS
-  - React
-  - AWS
-  - Design and architecture of software
+  - Libraries: React, NestJS, NextJS, Express
+  - AWS: EKS, SQS, Lambda, Cloudformation, S3, Route53...
   - and many more...
 - 🌱 At my free time I like to read tech books and write some code to improve my skills.
 - 📫 How to reach me : [GMAIL](mailto:vitorsoaresvian@gmail.com)
