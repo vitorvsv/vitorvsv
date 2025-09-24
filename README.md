@@ -102,5 +102,6 @@ As it is a donation to a project that I believe in, that Karate shapes the chara
 This project taught me to focus on the customer's problem and how to generate the greatest value in the shortest possible time by focusing on solving the customer's pain, as this website was built using the Wix platform, which helped with fast delivery and focused on solving the problem regardless of the technology or tool used.
 
 ## Extra projects
+* [Laravel deploy](https://github.com/vitorvsv/laravel-deploy): Complete environment for develop [Laravel](https://laravel.com) using docker locally, with deploy to kubernetes using GitHub Actions.
 * [EKS-deploy](https://github.com/vitorvsv/eks-deploy): Project with three API deployed in AWS EKS, used as a technical studies about Docker, Containers, Kubernetes and Micro-services.
 
